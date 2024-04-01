@@ -1,6 +1,3 @@
-___
-
-
 <a href="https://github.com/Faywyn">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Faywyn&mode=weekly" />
 </a>
